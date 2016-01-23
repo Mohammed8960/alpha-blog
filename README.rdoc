@@ -1,3 +1,9 @@
 == README
 
-blog test by ROR
+blog by Ruby on rails, have the followng Rails Features
+one to many Association
+Many to Many association
+automated Test
+Admin, authenticated user
+debugger
+Avatar
